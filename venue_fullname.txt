@@ -1,0 +1,335 @@
+venue$fullname
+ICST$IEEE Communications Surveys \& Tutorials
+COS$Computers \& Security
+COSN$ACM Conference on Online Social Networks
+WI$International Conference on Web Intelligence
+ACL$Annual Meeting of the Association for Computational Linguistics
+WWW_old$International Conference on World Wide Web
+ICLR$International Conference on Learning Representations
+NDSS$Network and Distributed System Security Symposium
+ICDE$International Conference on Data Engineering
+KDD$ACM Conference on Knowledge Discovery and Data Mining
+FOCS$Annual Symposium on Foundations of Computer Science
+KAIS$Knowledge and Information Systems
+ICDM$International Conference on Data Mining
+Euro S\&P$IEEE European Symposium on Security and Privacy
+ARES$Conference on Availability, Reliability and Security
+SACMAT$ACM Symposium on Access Control Models and Technologies
+RecSys$ACM Conference on Recommender Systems
+scireport$Scientific Reports
+IMC$ACM Internet Measurement Conference
+COLING$International Conference on Computational Linguistics
+ASIAPKC$ACM Workshop on Asia Public-key Cryptography
+CHI$Annual ACM Conference on Human Factors in Computing Systems
+WWW$The Web Conference
+S\&P$IEEE Symposium on Security and Privacy
+CCS$ACM SIGSAC Conference on Computer and Communications Security
+WSDM$ACM International Conference on Web Search and Data Mining
+WISE$International Conference Web Information Systems Engineering
+SNAA$Workshop on Social Network Analysis in Applications
+ICCV$IEEE International Conference on Computer Vision
+WPES$Workshop on Privacy in the Electronic Society
+TDP$Transactions on Data Privacy
+HT$ACM Conference on Hypertext and Social Media
+ICCSNT$International Conference on Computer Science and Network Technology
+JAIST$Journal of the American Society for Information Science and Technology
+FTTCS$Foundations and Trends in Theoretical Computer Science
+ICWE$International Conference on Web Engineering
+APWeb$Asia-Pacific Web Conference
+SIGMOD$ACM SIGMOD International Conference on Management of Data
+COMPSAC$Annual IEEE Computers, Software and Applications Conference
+VLDB_journal$Proceedings of the VLDB Endowment
+USENIX Security$USENIX Security Symposium
+ICWSM_old$International Conference on Weblogs and Social Media
+ICWSM$International Conference on Web and Social Media
+PNAS$Proceedings of the National Academy of Sciences
+SocInfo$International Conference on Social Informatics
+WOSN$ACM Workshop on Online social networks
+CIKM$ACM International Conference on Information and Knowledge Management
+NIPS$Annual Conference on Neural Information Processing Systems
+NeurIPS$Annual Conference on Neural Information Processing Systems
+SN$Social Networks
+ASONAM$IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
+SocialCom$IEEE International Conference on Social Computing
+ASIACCS$ACM Asia Conference on Computer and Communications Security
+IACR$IACR Cryptology ePrint Archive
+ITIT$IEEE Transactions on Information Theory
+ICS$Information, Communication \& Society
+DSN$Annual IEEE/IFIP International Conference on Dependable Systems and Networks
+SIGIR$International ACM SIGIR Conference on Research and Development in Information Retrieval
+IJUFKS$International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
+IJCAI$International Joint Conferences on Artifical Intelligence
+ECML/PKDD$European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+CSF$IEEE Computer Security Foundations Symposium
+ECCV$European Conference on Computer Vision
+ICML$International Conference on Machine Learning
+CAV$International Conference on Computer Aided Verification
+AAAI$AAAI Conference on Artificial Intelligence
+PPAI$The AAAI Workshop on Privacy-Preserving Artificial Intelligence
+EUROCRYPT$Annual International Conference on the Theory and Applications of Cryptographic Techniques
+Black Hat$Black Hat
+WOOT$USENIX Workshop on Offensive Technologies
+TIST$ACM Transactions on Intelligent Systems and Technology
+PlosGene$PLOS Genetics
+AISTATS$International Conference on Artificial Intelligence and Statistics
+AAMAS$International Conference on Autonomous Agents and Multi-agent Systems
+PETS$Privacy Enhancing Technologies Symposium
+ACSAC$Annual Computer Security Applications Conference
+ISSRE$International Symposium on Software Reliability Engineering
+CGO$International Symposium on Code Generation and Optimization
+CVPR$IEEE Conference on Computer Vision and Pattern Recognition
+NRLQ$Naval Research Logistics Quarterly
+FAT*$Conference on Fairness, Accountability, and Transparency
+FAccT$Conference on Fairness, Accountability, and Transparency
+ITCS$Innovations in Theoretical Computer Science Conference
+JMLR$Journal of Machine Learning Research
+TCC$Theory of Cryptography Conference
+CCSW$ACM Cloud Computing Security Workshop
+COLT$Annual Conference on Learning Theory
+GlobalSIP$IEEE Global Conference on Signal and Information Processing
+CRYPTO$Annual International Cryptology Conference
+TOCT$ACM Transactions on Computation Theory
+MASU$Mathematical notes of the Academy of Sciences of the USSR
+STOC$Annual ACM Symposium on Theory of Computing
+SICOMP$SIAM Journal on Computing
+FC$International Conference on Financial Cryptography and Data Security
+TIFS$IEEE Transactions on Information Forensics and Security
+BMCMG$BMC medical genomics
+TDSC$IEEE Transactions on Dependable and Secure Computing
+LATINCRYPT$International Conference on Cryptology and Information Security in Latin America
+DCC$Designs, Codes and Cryptography
+TOPS$ACM Transactions on Privacy and Security
+FOCS$IEEE Symposium on Foundations of Computer Science
+JCICS$Journal of Chemical Information and Computer Sciences
+SR$Scientific Reports
+JCSB$Computational and Structural Biotechnology Journal
+CIDR$Annual Conference on Innovative Data Systems Research
+Risks$Risks
+TOIT$ACM Transactions on Internet Technology
+SPM$IEEE Signal Processing Magazine
+JCIM$Journal of Chemical Information and Modeling
+NC$Neural Computation
+CLSR$Computer Law \& Security Review
+Bioinformatics$Bioinformatics
+JMB$Journal of Molecular Biology
+ICMR$International Conference on Multimedia Retrieval
+EMNLP$Conference on Empirical Methods in Natural Language Processing
+EMNLP-IJCNLP$Conference on Empirical Methods in Natural Language Processing and International Joint Conference on Natural Language Processing
+EMNLP-CoNLL$Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning
+ASIACRYPT$International Conference on the Theory and Application of Cryptology and Information Security
+WAHC$Workshop on Encrypted Computing \& Applied Homomorphic Cryptography
+PODS$ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems
+ICASSP$IEEE International Conference on Acoustics, Speech and Signal Processing
+ISBI$IEEE International Symposium on Biomedical Imaging
+NAACL-HLT$Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies
+IJCV$International Journal of Computer Vision
+ToG$ACM Transactions on Graphics
+PriML$PriML Workshop
+JCMD$Journal of Computer-Aided Molecular Design
+PinKDD$International Workshop on Privacy, Security, and Trust in KDD
+PAKDD$Pacific-Asia Conference on Knowledge Discovery and Data Mining
+SocialSec$Security and Privacy in Social Networks
+EDBT$International Conference on Extending Database Technology
+TKDE$IEEE Transactions on Knowledge and Data Engineering
+TOIS$ACM Transactions on Information Systems
+SAC$ACM Symposium on Applied Computing
+FPGA$ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
+ASPLOS$International Conference on Architectural Support for Programming Languages and Operating Systems
+HotMobile$International Workshop on Mobile Computing Systems and Applications
+KDF$The AAAI Workshop on Knowledge Discovery from Unstructured Data in Financial Services
+GRL$The ICML Workshop on Graph Representation Learning and Beyond
+KBS$Knowledge Based Systems
+TKDD$ACM Transactions on Knowledge Discovery from Data
+TNNLS$IEEE Transactions on Neural Networks and Learning Systems
+IJAC$International Journal of Automation and Computing
+TCSS$IEEE Transactions on Computational Social Systems
+TNN$IEEE Transactions on Neural Networks
+NJP$New Journal of Physics
+PRE$Physical Review E
+TPAMI$IEEE Transactions on Pattern Analysis and Machine Intelligence
+ICANN$International Conference on Artificial Neural Networks
+IJSN$Int. J. Secur. Networks
+ESORICS$European Symposium on Research in Computer Security
+AIM$AI Magazine
+PRCV$Chinese Conference on Pattern Recognition and Computer Vision
+LRG$ICML Workshop on Learning and Reasoning with Graph-Structured Representations
+ICDL$International Conference on Digital Libraries
+SPW$IEEE Security and Privacy Workshops
+AISec$Workshop on Security and Artificial Intelligence
+RLGM$ICLR Representation Learning on Graphs and Manifolds Workshop
+ICTIR$ACM SIGIR International Conference on the Theory of Information Retrieval
+ICALT$International Conference on Algorithmic Learning Theory
+FG$International Conference on Automatic Face {\&} Gesture Recognition
+IP$IEEE Transactions on Image Processing
+WACV$Winter Conference on Applications of Computer Vision
+CODASPY$ACM Conference on Data and Application Security and Privacy
+JAMIA$J. Am. Medical Informatics Assoc.
+MIA$Medical Image Analysis
+EMBC$Annual International Conference of the {IEEE} Engineering in Medicine and Biology Society
+FUZZ-IEEE$IEEE International Conference on Fuzzy Systems
+Expert Systems with Applications$Expert Systems with Applications
+TiiS$ACM Transactions on Interactive Intelligent Systems
+CSCW$ACM Conference on Computer Supported Cooperative Work
+WIFS$IEEE International Workshop on Information Forensics and Security
+CVPRW$IEEE Conference on Computer Vision and Pattern Recognition Workshops
+BMVC$Proceedings of the British Machine Vision Conference
+IJCNN$International Joint Conference on Neural Networks
+IJCB$International Joint Conference on Biometrics
+NM$Nature Medicine
+ICPR$International Conference on Pattern Recognition
+AdvML$ICML Workshop on Adversarial Machine Learning
+Neurocomputing$Neurocomputing
+DL$ICML Workshop on Deep Learning
+GRL+$ICML Workshop on Graph Representation Learning and Beyond
+IPDPS$International Symposium on Parallel and Distributed Processing
+SACMAT$Symposium on Access Control Models and Technologies
+TCS$Theoretical Computer Science
+AMS$The Annals of Mathematical Statistics
+RAID$Research in Attacks, Intrusions, and Defenses
+MobiCom$Annual International Conference on Mobile Computing and Networking
+JSTSP$Journal of Selected Topics in Signal Processing
+OpenAI blog$OpenAI blog
+EACL$Conference of the European Chapter of the Association for Computational Linguistics
+SocialNLP$Workshop on Natural Language Processing for Social Media
+CoNLL$Conference on Computational Natural Language Learning
+Cogn. Sci.$Cogn. Sci.
+IJCNLP$International Joint Conference on Natural Language Processing
+INLG$International Conference on Natural Language Generation
+ICRITO$International Conference on Reliability, Infocom Technologies and Optimization
+DSAA$International Conference on Data Science and Advanced Analytics
+Remote. Sens.$Remote. Sens.
+STO-MP-MSG-149$STO-MP-MSG-149
+WREPL$ICML Workshop on Challenges in Representation Learning
+ISPRSPRS$ISPRS Journal of Photogrammetry and Remote Sensing
+ICRA$IEEE International Conference on Robotics and Automation
+JOSS$The Journal of Open Source Software
+ISSTA$ACM SIGSOFT International Symposium on Software Testing and Analysis
+MM$ACM International Conference on Multimedia
+WebSci$ACM Conference on Web Science
+Informatics$Informatics
+Cureus$Cureus
+JMIRPHS$JMIR Public Health and Surveillance
+JCSS$Journal of Computational Social Science
+PEOPLES$Workshop on Computational Modeling of People's Opinions, Personality, and Emotions in Social Media
+NM$Nature Methods
+PV$Psychology of violence
+SC$Sociology Compass
+Religions$Religions
+PH$International Journal of Environmental Research and Public Health
+JMIR$JMIR Publications Inc.
+SIGCOMM$ACM Special Interest Group on Data Communication
+HotEdge$Hot Topics in Edge Computing
+INFOCOM$IEEE Conference on Computer Communications
+TECS$Transactions on Embedded Computing Systems
+COACM$Communications of the ACM
+CSUR$ACM Computing Surveys
+TACL$Transactions of the Association for Computational Linguistics
+ACML$Asian Conference on Machine Learning
+CCL$China National Conference on Chinese Computational Linguistics
+NSRW$NAACL Student Research Workshop
+JSS$Journal of Systems and Software
+ISDA$International Conference on Intelligent Systems Design and Applications
+JCRAE$Journal of Cultural Research in Art Education
+QQ$Quality \& Quantity
+IPM$Information Processing \& Management
+PHCI$Proceedings of the ACM on Human-Computer Interaction
+TOCHI$ACM Transactions on Computer-Human Interaction
+NMS$New Media \& Society
+NeurIPSCT$NeurIPS Competition Track
+FTML$Foundations and Trends in Machine Learning
+KDD_old$International Conference on Knowledge Discovery and Data Mining
+COMPLING$Computational Linguistics
+RFC$Request for Comments
+FIPS$Federal Information Processing Standard
+AO${AI} Open
+ICCVW$IEEE International Conference on Computer Vision Workshops
+MIDLS$Medical Imaging with Deep Learning (Short Paper)
+ICSE${IEEE/ACM} International Conference on Software Engineering
+IWFRI$International Workshop on Faces in Real-Life Images: Detection, Alignment, and Recognition
+WCSLD$Workshop on Creating Speech and Language Data with Amazon's Mechanical Turk
+Symmetry$Symmetry
+WASSA$Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis
+IWSE$International Workshop on Semantic Evaluation
+CSW$Crowd Science Workshop: Trust, Ethics, and Excellence in Crowdsourced Data Management at Scale
+ACL/IJCNLP$Annual Meeting of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing
+IWP$International Workshop on Paraphrasing
+LREC$International Conference on Language Resources and Evaluation
+NLPerspectives$Workshop on Perspectivist Approaches to NLPerspectives
+ESWC$European Semantic Web Conference
+SM+S$Social Media + Society
+RepL4NLP$Workshop on Representation Learning for NLP
+MIPR$IEEE Conference on Multimedia Information Processing and Retrieval
+DUKE$Duke Law and Technology Review
+FAM$Foreign Affairs Magazine
+JAIR$Journal of Artificial Intelligence Research
+MICCAI$Medical Image Computing and Computer Assisted Intervention
+CA$Constructive Approximation
+TOR$IEEE Transactions on Reliability
+ICIP$IEEE International Conference on Image Processing
+F1000Research$F1000Research
+PP$Political Psychology
+AEORS$IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+AO$AI Open
+ICME$International Conference on Multimedia and Expo
+ICMLA$International Conference on Machine Learning and Applications
+ICCCA$International Conference on Computing Communication and Automation
+JBD$Journal of Big Data
+Access$IEEE Access
+SCIS$Science China Information Sciences
+NB$Nature Biotechnology
+JMM$Journal of Molecular Modeling
+CRM$Cell Reports Medicine
+TSRML$NeurIPS Workshop on Trustworthy and Socially Responsible Machine Learning
+TSP$IEEE Transactions on Signal Processing
+IH$Information Hiding
+WIFS$IEEE International Workshop on Information Forensics and Security
+JIS$EURASIP Journal on Information Security
+MTA$Multimedia Tools and Applications
+IJQM$International Journal of Qualitative Methods
+NLR$Natural Language Engineering
+PB$Psychological Bulletin
+JASA$Journal of the American Statistical Association
+AM$Contributions to the Theory of Games
+KR$International Conference on Principles of Knowledge Representation and Reasoning
+AIES$AAAI/ACM Conference on AI, Ethics, and Society
+MILCOM$IEEE Military Communications Conference
+ECIR$European Conference on Information Retrieval
+BigDataSecurity/HPSC/IDS$IEEE International Conference on Big Data Security on Cloud, High Performance and Smart Computing and Intelligent Data and Security
+SIGMOBILE$ACM SIGMOBILE Mobile Computing and Communications Review
+TMLR$Transactions of Machine Learning Research
+IJCA$International Journal of Computer Applications
+CHIPLAY$ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play
+JCMC$Journal of Computer-Mediated Communication
+SocInfo$International Conference on Social Informatics
+CSCW$ACM Conference On Computer-Supported Cooperative Work And Social Computing
+EC$Entertainment Computing
+JCSCW$Computer Supported Cooperative Work
+UIST$ACM Symposium on User Interface Software and Technology
+GC$Games and Culture
+C$Convergence
+ToDIGRA$Transactions of the Digital Games Research Association
+TWC$Transformative Works and Cultures
+DS$Discourse Studies
+EJCPR$European Journal on Criminal Policy and Research
+JMUDR$Journal of MUD Research
+DiGRAC$DiGRA International Conference
+IR$Internet Research
+TI$Telematics and Informatics
+IJHCI$International Journal of Human-Computer Interaction
+GROUP$ACM International Conference on Supporting Group Work
+CBSN$Cyberpsychology, Behavior, and Social Networking
+IRJ$Information Retrieval Journal
+TrustNLP$Workshop on Trustworthy Natural Language Processing
+SAP$Security and Privacy
+ISDDC$International Conference on Intelligent, Secure, and Dependable Systems in Distributed and Cloud Environments
+SIGKDD$ACM Special Interest Group on Knowledge Discovery and Data Mining
+GenAI$Workshop on Challenges in Deploying Generative AI
+ICEET$International Conference on Engineering and Emerging Technologies
+Fusion$Information Fusion
+CVIU$Computer Vision and Image Understanding
+AS$Applied Sciences
+WOAH$Workshop on Online Abuse and Harms
+ClinicalNLP$Clinical Natural Language Processing Workshop
+DocEng$ACM Symposium on Document Engineering
+IJRM$International Journal of Research in Marketing
+JOML$Journal of Memory and Language

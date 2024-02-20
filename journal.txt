@@ -1,0 +1,243 @@
+author$title$venue$volume$number$pages$publisher$year
+David J. Crandall and Lars Backstrom and Dan Cosley and Siddharth Suri and Daniel Huttenlocher and Jon Kleinberg$Inferring social ties from geographic coincidences$PNAS$107$52$22436-22441$National Academy of Sciences$2010
+Yves-Alexandre de Montjoye and C{\'e}sar A. Hidalgo and Michel Verleysen and Vincent D. Blondel$Unique in the Crowd: The privacy bounds of human mobility$scireport$3$$1376$Nature Publishing Group$2013
+David Liben-Nowell and Jon Kleinberg$The Link-prediction Problem for Social Networks$JAIST$58$7$1019-1031$Wiley Online Library$2007
+Shouling Ji and Prateek Mittal and Raheem Beyah$Graph Data Anonymization, De-Anonymization Attacks, and De-Anonymizability Quantification: A Survey$ICST$19$2$1305-1326$IEEE$2016
+Lei Zou and Lei Chen and M. Tamer Ozsu$K-Automorphism: A General Framework for Privacy Preserving Network Publication$VLDB_journal$2$1$946-957$VLDB Endowment$2009
+Yue Wang and Xintao Wu$Preserving Differential Privacy in Degree-correlation based Graph Generation$TDP$6$2$127$NIH Public Access$2013
+Michael Hay and Gerome Miklau and David Jensen and Don Towsley and Philipp Weis$Resisting Structural Re-identification in Anonymized Social Networks$VLDB_journal$1$1$102-114$VLDB Endowment$2008
+Smriti Bhagat and Graham Cormode and Balachander Krishnamurthy and Divesh Srivastava$Class-based Graph Anonymization for Social Network Data$VLDB_journal$2$1$766-777$VLDB Endowment$2009
+J-P Onnela and Jari Saram{\"a}ki and Jorkki Hyv{\"o}nen and Gy{\"o}rgy Szab{\'o} and David Lazer and Kimmo Kaski and J{\'a}nos Kert{\'e}sz and A-L Barab{\'a}si$Structure and Tie Strengths in Mobile Communication Networks$PNAS$104$18$7332-7336$National Academy of Sciences$2007
+Lada A Adamic and Eytan Adar$Friends and Neighbors on the Web$SN$25$3$211-230$Elsevier$2003
+Giulia Fanti and Peter Kairouz and Sewoong Oh and Kannan Ramchandran and Pramod Viswanath$Hiding the Rumor Source$ITIT$63$10$6679-6713$IEEE$2017
+Lee Humphreys and Phillipa Gill and Balachander Krishnamurthy$Twitter: A Content Analysis of Personal Information$ICS$17$7$843-857$Taylor \& Francis$2014
+Latanya Sweeney$k-Anonymity: A Model for Protecting Privacy$IJUFKS$10$5$557-570$World Scientific$2002
+Dingqi Yang and Daqing Zhang and Bingqing Qu$Participatory Cultural Mapping Based on Collective Behavior Data in Location-Based Social Networks$TIST$7$3$$ACM$2016
+Nils Homer and Szabolcs Szelinger and Margot Redman and David Duggan and Waibhav Tembe and Jill Muehling and John V. Pearson and Dietrich A. Stephan and Stanley F. Nelson and David W. Craig$Resolving Individuals Contributing Trace Amounts of DNA to Highly Complex Mixtures Using High-Density SNP Genotyping Microarrays$PlosGene$4$8$1-9$Public Library of Science$2008
+Zekeriya Erkin and Martin Franz and Jorge Guajardo and Stefan Katzenbeisser and Inald Lagendijk and Tomas Toft$Privacy-Preserving Face Recognition$PETS$$$$$2009
+Adri{\`a} Gasc{\'o}n and Phillipp Schoppmann and Borja Balle and Mariana Raykova and Jack Doerner and Samee Zahur and David Evans$Privacy-Preserving Distributed Linear Regression on High-Dimensional Data$PETS$$$$$2017
+Harold W Kuhn$The Hungarian Method for the Assignment Problem$NRLQ$2$1-2$83-97$Wiley Online Library$1955
+Fariba Karimi and Mathieu G{\'e}nois and Claudia Wagner and Philipp Singer and Markus Strohmaier$Homophily Influences Ranking of Minorities in Social Networks$scireport$8$$$Nature Publishing Group$2018
+Kamalika Chaudhuri and Claire Monteleoni and Anand D Sarwate$Differentially Private Empirical Risk Minimization$JMLR$12$$1069-1109$JMLR$2011
+Jamie Hayes and Luca Melis and George Danezis and Emiliano De Cristofaro$LOGAN: Evaluating Privacy Leakage of Generative Models Using Generative Adversarial Networks$PETS$$$$$2019
+Nitish Srivastava and Geoffrey Hinton and Alex Krizhevsky and Ilya Sutskever and Ruslan Salakhutdinov$Dropout: A Simple Way to Prevent Neural Networks from Overfitting$JMLR$15$$1929-1958$JMLR$2014
+Zvika Brakerski and Craig Gentry and Vinod Vaikuntanathan$(Leveled) Fully Homomorphic Encryption without Bootstrapping$TOCT$6$3$13$ACM$2014
+Razborov, A. A.$Lower Bounds on the Size of Bounded Depth Circuits over a Complete Basis with Logical Addition$MASU$41$4$333-338$Springer$1987
+Zvika Brakerski and Vinod Vaikuntanathan$Efficient Fully Homomorphic Encryption from (Standard) LWE$SICOMP$43$2$831-871$SIAM$2014
+Jung Hee Cheon and Miran Kim and Myungsun Kim$Optimized Search-and-Compute Circuits and Their Application to Query Evaluation on Encrypted Data$TIFS$11$1$188-199$IEEE$2016
+Haixu Tang and Xiaoqian Jiang and Xiaofeng Wang and Shuang Wang and Heidi Sofia and Dov Fox and Kristin Lauter and Bradley Malin and Amalio Telenti and Li Xiong and others$Protecting genomic data analytics in the cloud: state of the art and opportunities$BMCMG$9$1$15$BioMed Central$2016
+Myungsun Kim and Hyung Tae Lee and San Ling and Benjamin Hong Meng Tan and Huaxiong Wang$Private Compound Wildcard Queries Using Fully Homomorphic Encryption$TDSC$$$$IEEE$2017
+Nigel P Smart and Frederik Vercauteren$Fully Homomorphic SIMD Operations$DCC$71$1$57-81$Springer$2014
+Benny Pinkas and Thomas Schneider and Michael Zohner$Scalable Private Set Intersection Based on OT Extension$TOPS$21$2$7$ACM$2018
+Adi Akavia and Craig Gentry and Shai Halevi and Max Leibovich$Setup-Free Secure Search on Encrypted Data: Faster and Post-Processing Free$PETS$$$$$2019
+Minhui Xue and Gabriel Magno and Evandro Cunha and Virgilio Almeida and Keith W. Ross$The Right to be Forgotten in the Media: A Data-Driven Study$PETS$2016$4$389-402$De Gruyter Open$2016
+Li Shen and Laurie R. Margolies and Joseph H. Rothstein and Eugene Fluder and Russell McBride and Weiva Sieh$Deep Learning to Improve Breast Cancer Detection on Screening Mammography$SR$9$1$1-12$Nature Publishing Group$2019
+Konstantina Kourou and Themis P. Exarchos and Konstantinos P. Exarchos and Michalis V. Karamouzis and Dimitrios I. Fotiadis$Machine Learning Applications in Cancer Prognosis and Prediction$JCSB$2015$13$8-17$Elsevier$2015
+Peter Martey Addo and Dominique Guegan and Bertrand Hassani$Credit Risk Analysis Using Machine and Deep Learning Models$Risks$6$2$38$Multidisciplinary Digital Publishing Institute$2018
+Martin Leo and Suneel Sharma and K. Maddulety$Machine Learning in Banking Risk Management: A Literature Review$Risks$7$1$29$Multidisciplinary Digital Publishing Institute$2019
+Bamshad Mobasher and Robin Burke and Runa Bhaumik and Chad Williams$Toward Trustworthy Recommender Systems: An Analysis of Attack Models and Algorithm Robustness$TOIT$7$4$23$ACM$2007
+Geoffrey Hinton and Li Deng and Dong Yu and George Dahl and Abdel-rahman Mohamed and Navdeep Jaitly and Andrew Senior and Vincent Vanhoucke and Patrick Nguyen and Tara Sainath and Brian Kingsbury$Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups$SPM$29$6$82-97$IEEE$2012
+Wen Torng and Russ B. Altman$Graph Convolutional Neural Networks for Predicting Drug-Target Interactions$JCIM$59$10$4131-4149$ACS$2019
+Sepp Hochreiter and J{\"{u}}rgen Schmidhuber$Long Short-Term Memory$NC$9$8$1735-1780$The MIT Press$1997
+Eduard Fosch Villaronga and Peter Kieseberg and Tiffany Li$Humans Forget, Machines Remember: Artificial Intelligence and the Right to Be Forgotten$CLSR$34$2$304$Elsevier$2018
+Karsten M. Borgwardt and Cheng Soon Ong and Stefan Sch{\"{o}}nauer and S. V. N. Vishwanathan and Alexander J. Smola and Hans-Peter Kriegel$Protein Function Prediction via Graph Kernels$Bioinformatics$21$1$47-56$Oxford University Press$2005
+Paul D. Dobson and Andrew J. Doig$Distinguishing Enzyme Structures from Non-Enzymes without Alignments$JMB$330$4$71-83$Elsevier$2003
+Jeffrey Sutherland and Lee O'Brien and Donald Weaver$SplineFitting with a Genetic Algorithm: A Method for Developing Classification Structure Activity Relationships$JCICS$43$6$1906-1915$ACS$2003
+Laurens van der Maaten and Geoffrey Hinton$Visualizing Data using t-SNE$JMLR$9$11$$JMLR$2008
+Tom De Smedt and Walter Daelemans$Pattern for Python$JMLR$13$$2063-2067$JMLR$2012
+Benjamin Hilprecht and Martin H{\"{a}}rterich and Daniel Bernau$Monte Carlo and Reconstruction Membership Inference Attacks against Generative Models$PETS$$$$$2019
+Rasmus Rothe and Radu Timofte and Luc Van Gool$Deep Expectation of Real and Apparent Age from a Single Image Without Facial Landmarks$IJCV$126$2-4$144-157$Springer$2018
+Satoshi Iizuka and Edgar Simo{-}Serra and Hiroshi Ishikawa$Globally and Locally Consistent Image Completion$ToG$36$4$107:1-107:14$ACM$2017
+Neil Zhenqiang Gong and Ameet Talwalkar and Lester W. Mackey and Ling Huang and Eui Chul Richard Shin and Emil Stefanov and Elaine Shi and Dawn Song$Joint Link Prediction and Attribute Inference Using a Social-Attribute Network$TIST$5$2$$ACM$2014
+Steven Kearnes and Kevin McCloskey and Marc Berndl and Vijay Pande and Patrick Riley$Molecular Graph Convolutions: Moving Beyond Fingerprints$JCMD$30$8$595–608$Springer$2016
+Shanqing Yu and Minghao Zhao and Chenbo Fu and Jun Zheng and Huimin Huang and Xincheng Shu and Qi Xuan and G. Chen$Target Defense Against Link-Prediction-Based Attacks via Evolutionary Perturbations$TKDE$$$1-1$IEEE$2019
+Roger Guimer{\`a} and Marta Sales-Pardo$Missing and Spurious Interactions and the Reconstruction of Complex Networks$PNAS$106$52$22073-22078$National Academy of Sciences$2009
+Mukund Deshpande and George Karypis$Item-Based Top-N Recommendation Algorithms$TOIS$22$1$143-177$ACM$2004
+Wanyu Chen and Fei Cai and Honghui Chen and Maarten de Rijke$Joint Neural Collaborative Filtering for Recommender Systems$TOIS$37$4$39:1-39:30$ACM$2019
+Seyed Ali Osia and Ali Taheri and Ali Shahin Shamsabadi and Kleomenis Katevas and Hamed Haddadi and Hamid R. Rabiee$Deep Private-Feature Extraction$TKDE$32$1$54-66$IEEE$2018
+Palash Goyal and Emilio Ferrara$Graph embedding techniques, applications, and performance: A survey$KBS$151$$78-94$Elsevier$2018
+John Boaz Lee and Ryan A. Rossi and Sungchul Kim and Nesreen K. Ahmed and Eunyee Koh$Attention Models in Graphs: A Survey$TKDD$13$6$62:1-62:25$ACM$2019
+Ziwei Zhang and Peng Cui and Wenwu Zhu$Deep Learning on Graphs: A Survey$TKDE$$$1-1$IEEE$2020
+Zonghan Wu and  Shirui Pan and Fengwen Chen and Guodong Long and Chengqi Zhang and Philip S. Yu$A Comprehensive Survey on Graph Neural Networks$TNNLS$32$1$4-24$IEEE$2020
+Han Xu and Yao Ma and Haochen Liu and Debayan Deb and Hui Liu and Jiliang Tang and Anil K. Jain$Adversarial Attacks and Defenses in Images, Graphs and Text: A Review$IJAC$17$2$151-178$$2020
+Jinyin Chen and Xiang Lin and Ziqiang Shi and Yi Liu$Link Prediction Adversarial Attack Via Iterative Gradient Attack$TCSS$7$4$1081-1094$IEEE$2020
+Franco Scarselli and Marco Gori and Ah Chung Tsoi and Markus Hagenbuchner and Gabriele Monfardini$The Graph Neural Network Model$TNN$20$1$61-80$IEEE$2009
+Steve Gregory$Finding Overlapping Communities in Networks by Label Propagation$NJP$12$10$103018$IOP Publishing$2010
+Fei Wang and Changshui Zhang$Label Propagation through Linear Neighborhoods$TKDE$20$1$55-67$IEEE$2008
+Usha Nandini Raghavan and R{\'e}ka Albert and Soundar Kumara$Near Linear Time Algorithm to Detect Community Structures in Large-scale Networks$PRE$76$3$036106$APS$2007
+Xiao Zhang and M. E. J. Newman$Multiway Spectral Community Detection in Networks$PRE$92$5$052808$APS$2015
+Michelle Girvan and M. E. J. Newman$Community Structure in Social and Biological Networks$PNAS$99$12$7821-7826$National Academy of Sciences$2002
+Tapas Kanungo and David M. Mount and Nathan S. Netanyahu and Christine D. Piatko and Ruth Silverman and Angela Y. Wu$An Efficient k-Means Clustering Algorithm: Analysis and Implementation$TPAMI$24$7$881-892$IEEE$2002
+Martin Rosvall and Carl T. Bergstrom$Maps of Random Walks on Complex Networks Reveal Community Structure$PNAS$105$4$1118-1123$National Academy of Sciences$2008
+Giuseppe Ateniese and Luigi V. Mancini and Angelo Spognardi and Antonio Villani and Domenico Vitali and Giovanni Felici$Hacking smart machines with smarter ones: How to extract meaningful data from machine learning classifiers$IJSN$10$3$137-150$$2015
+Marcin Waniek and Kai Zhou and Yevgeniy Vorobeychik and Esteban Moro and Tomasz Michalak and Talal Rahwan$How to Hide One's Relationships from Link Prediction Algorithms$SR$9$1$1-10$Nature Publishing Group$2019
+Fuli Feng and Xiangnan He and Jie Tang and Tat{-}Seng Chua$Graph Adversarial Training: Dynamically Regularizing Based on Graph Structure$TKDE$$$$IEEE$2019
+Prithviraj Sen and Galileo Namata and Mustafa Bilgic and Lise Getoor and Brian Gallagher and Tina Eliassi{-}Rad$Collective Classification in Network Data$AIM$29$3$93-106$AAAI$2008
+Jinhyuk Lee and Wonjin Yoon and Sungdong Kim and Donghyeon Kim and Sunkyu Kim and Chan Ho So and Jaewoo Kang$BioBERT: a pre-trained biomedical language representation model for biomedical text mining$Bioinformatics$36$4$1234-1240$Oxford University Press$2020
+John C. Duchi and Elad Hazan and Yoram Singer$Adaptive Subgradient Methods for Online Learning and Stochastic Optimization$JMLR$12$$2121-2159$JMLR$2011
+Bolei Zhou and {\`{A}}gata Lapedriza and Aditya Khosla and Aude Oliva and Antonio Torralba$Places: {A} 10 Million Image Database for Scene Recognition$TPAMI$40$6$1452-1464$IEEE$2018
+Nino Shervashidze and Pascal Schweitzer and Erik Jan van Leeuwen and Kurt Mehlhorn and Karsten M. Borgwardt$Weisfeiler-Lehman Graph Kernels$JMLR$12$$2539–2561$JMLR$2011
+Nisarg Raval and Ashwin Machanavajjhala and Jerry Pan$Olympus: Sensor Privacy through Utility Aware Obfuscation$PETS$$$$$2019
+Zhou Wang and Alan C. Bovik and Hamid R. Sheikh and Eero P. Simoncelli$Image Quality Assessment: from Error Visibility to Structural Similarity$IP$13$4$600-612$IEEE$2004
+Dmitrii Avdiukhin and Sergey Pupyrev and Grigory Yaroslavtsev$Multi-Dimensional Balanced Graph Partitioning via Projected Gradient Descent$VLDB_journal$12$8$906-919$VLDB Endowment$2019
+Mary H. Stanfill and Margaret Williams and Susan H. Fenton and Robert A. Jenders and William R. Hersh$A Systematic Literature Review of Automated Clinical Coding and Classification Systems$JAMIA$17$6$646-651$Oxford University Press$2010
+Bogdan Walek and Vladimir Fojtik$A Hybrid Recommender System for Recommending Relevant Movies Using An Expert System$Expert Systems with Applications$158$$113452$Elsevier$2020
+F. Maxwell Harper and Joseph A Konstan$The MovieLens Datasets: History and Context$TiiS$5$4$1-19$ACM$2015
+Jihun Hamm$Minimax Filter: Learning to Preserve Privacy from Inference Attacks$JMLR$$$$JMLR$2017
+Varun Chandrasekaran and Chuhan Gao and Brian Tang and Kassem Fawaz and Somesh Jha and Suman Banerjee$Face-Off: Adversarial Face Obfuscation$PETS$2021$2$369-390$$2021
+Yaron Gurovich and Yair Hanani and Omri Bar and Guy Nadav and Nicole Fleischer and Dekel Gelbman and Lina Basel-Salmon and Peter M. Krawitz and Susanne B. Kamphausen and Martin Zenker and Lynne M. Bird and Karen W. Gripp$Identifying Facial Phenotypes of Genetic Disorders Using Deep Learning$NM$25$1$60-64$Nature Publishing Group$2019
+Yuantian Miao and Minhui Xue and Chao Chen and Lei Pan and Jun Zhang and Benjamin Zi Hao Zhao and Dali Kaafar and Yang Xiang$The Audio Auditor: User-Level Membership Inference in Internet of Things Voice Services$PETS$2021$1$209-228$$2021
+Rodrigo Frassetto Nogueira and Roberto de Alencar Lotufo and Rubens Campos Machado$Fingerprint Liveness Detection Using Convolutional Neural Networks$TIFS$11$6$1206-1213$IEEE$2016
+Mei Wang and Weihong Deng$Deep Face Recognition: A Survey$Neurocomputing$429$$215-244$Elsevier$2021
+Qiang Yang and Yang Liu and Tianjian Chen and Yongxin Tong$Federated Machine Learning: Concept and Applications$TIST$10$2$12:1-12:19$ACM$2019
+Marinka Zitnik and Monica Agrawal and Jure Leskovec$Modeling polypharmacy side effects with graph convolutional networks$Bioinformatics$34$13$i457-i466$Oxford University Press$2018
+Yoshua Bengio and Aaron C. Courville and Pascal Vincent$Representation Learning: {A} Review and New Perspectives$TPAMI$35$8$1798-1828$IEEE$2013
+T. Tony Cai and Jianqing Fan and Tiefeng Jiang$Distributions of Angles in Random Packing on Spheres$JMLR$14$1$1837-1864$JMLR$2013
+Zhipeng Cai and Zaobo He and Xin Guan and Yingshu Li$Collective Data-Sanitization for Preventing Sensitive Information Inference Attacks in Social Networks$TDSC$15$4$577-590$IEEE$2018
+Benjamin H Good and Yves-Alexandre De Montjoye and Aaron Clauset$Performance of Modularity Maximization in Practical Contexts$PRE$81$4$046106$APS$2010
+Subhas C. Nandy and Sandip Das and Partha P. Goswami$An Efficient K Nearest Neighbors Searching Algorithm for A Query Line$TCS$299$1-3$273-288$ACM$2003
+Stuart P. Lloyd$Least Squares Quantization in {PCM}$ITIT$28$2$129-136$IEEE$1982
+Murray Rosenblatt$Remarks on Some Nonparametric Estimates of a Density Function$AMS$27$3$832-837$Institute of Mathematical Statistics$1956
+Yue Wang and Jianghao Shen and Ting{-}Kuei Hu and Pengfei Xu and Tan M. Nguyen and Richard G. Baraniuk and Zhangyang Wang and Yingyan Lin$Dual Dynamic Inference: Enabling More Efficient, Adaptive, and Controllable Deep Inference$JSTSP$14$4$623-633$IEEE$2020
+Takeru Miyato and Shin{-}ichi Maeda and Masanori Koyama and Shin Ishii$Virtual Adversarial Training: {A} Regularization Method for Supervised and Semi-Supervised Learning$TPAMI$41$8$1979-1993$IEEE$2019
+Alec Radford and Jeffrey Wu and Rewon Child and David Luan and Dario Amodei and Ilya Sutskever$Language Models are Unsupervised Multitask Learners$OpenAI blog$1$8$9$OpenAI$2019
+David H. Ackley and Geoffrey E. Hinton and Terrence J. Sejnowski$A Learning Algorithm for Boltzmann Machines$Cogn. Sci.$9$1$147-169$$1985
+Ville V. Lehtola and Harri Kaartinen and Andreas N{\"{u}}chter and Risto Kaijaluoto and Antero Kukko and Paula Litkey and Eija Honkavaara and Tomi Rosnell and Matti T. Vaaja and Juho{-}Pekka Virtanen and Matti Kurkela and Aimad El Issaoui and Lingli Zhu and Anttoni Jaakkola and Juha Hyypp{\"{a}}$Comparison of the Selected State-Of-The-Art 3D Indoor Scanning and Point Cloud Generation Methods$Remote. Sens.$9$8$796$$2017
+Yue Wang and Yongbin Sun and Ziwei Liu and Sanjay E. Sarma and Michael M. Bronstein and Justin M. Solomon$Dynamic Graph {CNN} for Learning on Point Clouds$ToG$38$5$146:1-146:12$ACM$2019
+Steven Webster and Todd Du Bosq and Vinh Tran and Kirby Thomas and Christopher May$Simulation of LIDAR Systems for Aerial Intelligence, Surveillance, and Reconnaissance$STO-MP-MSG-149$$$17:1-17:12$STO$2017
+Yulan Guo and Hanyun Wang and Qingyong Hu and Hao Liu and Li Liu and Mohammed Bennamoun$Deep Learning for 3D Point Clouds: {A} Survey$TPAMI$43$12$4338-4364$IEEE$2021
+Zhen Dong and Fuxun Liang and Bisheng Yang and Yusheng Xu and Yufu Zang and Jianping Li and Yuan Wang and Wenxia Dai and Hongchao Fan and Juha Hyypp{\"{a}} and Uwe Stilla$Registration of Large-scale Terrestrial Laser Scanner Point Clouds: A Review and Benchmark$ISPRSPRS$163$$327-342$Elsevier$2020
+Ying Li and Lingfei Ma and Zilong Zhong and Fei Liu and Michael A. Chapman and Dongpu Cao and Jonathan Li$Deep Learning for LiDAR Point Clouds in Autonomous Driving: {A} Review$TNNLS$32$8$3412-3432$IEEE$2021
+Leland McInnes and John Healy and Nathaniel Saul and Lukas Gro{\ss}berger${UMAP:} Uniform Manifold Approximation and Projection$JOSS$3$29$861$$2018
+Yao Li and Harvey L. Nicholson Jr$When “model minorities” become “yellow peril”—Othering and the racialization of Asian Americans in the COVID‐19 pandemic$SC$15$2$e12849$$2021
+Brian TaeHyuk Keum and Matthew J. Miller$Racism on the Internet: Conceptualization and recommendations for research$PV$8$6$782$Educational Publishing Foundation$2018
+Laura Cervi$Exclusionary Populism and Islamophobia: A comparative analysis of Italy and Spain$Religions$11$10$516$Multidisciplinary Digital Publishing Institute$2020
+Thu T. Nguyen and Shaniece Criss and Pallavi Dwivedi and Dina Huang and Jessica Keralis and Erica Hsu and Lynn Phan and Leah H. Nguyen and Isha Yardi and M. Maria Glymour and Amani M. Allen and David H. Chae and Gilbert C. Gee and Quynh C. Nguyen$Exploring U.S. Shifts in Anti-Asian Sentiment with the Emergence of COVID-19$PH$17$19$7032$Multidisciplinary Digital Publishing Institute$2020
+Ramez Kouzy and Joseph Abi Jaoude and Afif Kraitem and Molly B. El Alam and Basil Karam and Elio Adib and Jabra Zarka and Cindy Traboulsi and Elie W. Akl and Khalil Baddour$Coronavirus Goes Viral: Quantifying the COVID-19 Misinformation Epidemic on Twitter$Cureus$12$3$e7255$Cureus$2020
+Milka Trajkova and A’aeshah Alhakamy and Francesco Cafaro and Sanika Vedak and Rashmi Mallappa and Sreekanth R. Kankara$Exploring Casual COVID-19 Data Visualizations on Twitter: Topics and Challenge$Informatics$7$3$35$MDPI$2020
+Emily Chen and Kristina Lerman and Emilio Ferrara$Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set$JMIRPHS$6$2$e19273$JMIR$2020
+Shadi Shahsavari and Pavan Holur and Tianyi Wang and Timothy R. Tangherlini and Vwani Roychowdhury$Conspiracy in the Time of Corona: Automatic Detection of Emerging COVID-19 Conspiracy Theories in Social Media and the News$JCSS$3$2$279–317$Springer$2020
+Pauli Virtanen and Ralf Gommers and Travis E. Oliphant and Matt Haberland and Tyler Reddy and David Cournapeau and Evgeni Burovski and Pearu Peterson and Warren Weckesse and Jonathan Bright and others$SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python$NM$17$3$261-272$Nature Publishing Group$2020
+Weiwen Jiang and Edwin H.{-}M. Sha and Xinyi Zhang and Lei Yang and Qingfeng Zhuge and Yiyu Shi and Jingtong Hu$Achieving Super-Linear Speedup across Multi-FPGA for Real-Time {DNN} Inference$TECS$18$5s$67:1-67:23$ACM$2019
+Roy Schwartz and Jesse Dodge and Noah A. Smith and Oren Etzioni$Green {AI}$COACM$63$12$54-63$ACM$2020
+Ninareh Mehrabi and Fred Morstatter and Nripsuta Saxena and Kristina Lerman and Aram Galstyan$A Survey on Bias and Fairness in Machine Learning$CSUR$54$6$115:1-115:35$ACM$2021
+Tongliang Liu and Dacheng Tao$Classification with Noisy Labels by Importance Reweighting$TPAMI$38$3$447-461$IEEE$2016
+Peter Young and Alice Lai and Micah Hodosh and Julia Hockenmaier$From image descriptions to visual denotations: New similarity metrics for semantic inference over event descriptions$TACL$2$$67-78$The MIT Press$2014
+Andrej Karpathy and Li Fei{-}Fei$Deep Visual-Semantic Alignments for Generating Image Descriptions$TPAMI$39$4$664-676$IEEE$2017
+Abhishek Das and Satwik Kottur and Khushi Gupta and Avi Singh and Deshraj Yadav and Stefan Lee and Jos{\'{e}} M. F. Moura and Devi Parikh and Dhruv Batra$Visual Dialog$TPAMI$41$5$1242-1256$IEEE$2019
+Hongsheng Hu and Zoran Salcic and Lichao Sun and Gillian Dobbie and Philip S. Yu and Xuyun Zhang$Membership Inference Attacks on Machine Learning: A Survey$CSUR$$$$ACM$2021
+Herbert Robbins and Sutton Monro$A Stochastic Approximation Method$AMS$22$3$400-407$Institute of Mathematical Statistics$1951
+Hyotaek Shim$PHash: A memory-efficient, high-performance key-value store for large-scale data-intensive applications$JSS$123$$33-44$Elsevier$2017
+Mark E. J. Newman$Modularity and community structure in networks$PNAS$103$23$8577-8582$National Academy of Sciences$2006
+InJeong Yoon$Why is it not Just a Joke? Analysis of Internet Memes Associated with Racism and Hidden Ideology of Colorblindness$JCRAE$33$1$92-123$University of Arizona Libraries$2016
+Rosa Falotico and Piero Quatto$Fleiss’ kappa statistic without paradoxes$QQ$49$$463-470$Springer$2015
+David M. Beskow and Sumeet Kumar and Kathleen M. Carley$The evolution of political memes: Detecting and characterizing internet memes with multi-modal deep learning$IPM$57$2$$Elsevier$2020
+Lilian Weng and Alessandro Flammini and Alessandro Vespignani and Fillipo Menczer$Competition among memes in a world with limited attention$scireport$2$1$1-9$Nature Publishing Group$2012
+Shagun Jhaver and Christian Boylston and Diyi Yang and Amy S. Bruckman$Evaluating the Effectiveness of Deplatforming as a Moderation Strategy on Twitter$PHCI$5$CSCW2$1-30$ACM$2021
+Eshwar Chandrasekharan and Shagun Jhaver and Amy S. Bruckman and Eric Gilbert$Quarantined! Examining the Effects of a Community-Wide Moderation Intervention on Reddit$TOCHI$29$4$29:1-29:26}$ACM$2022
+Shagun Jhaver and Sucheta Ghoshal and Amy S. Bruckman and Eric Gilbert$Online Harassment and Content Moderation: The Case of Blocklists$TOCHI$25$2$12:1-12:33$ACM$2018
+Mattias Wahlstr{\"{o}}m and Anton T{\"{o}}rnberg and Hans Ekbrand$Dynamics of violent and dehumanizing rhetoric in far-right social media$NMS$23$11$3290-3311$SAGE Publications$2021
+Shai Shalev{-}Shwartz$Online Learning and Online Convex Optimization$FTML$4$2$107-194$Now Publishers Inc$2012
+Zhibo Wang and Jingjing Ma and Xue Wang and Jiahui Hu and Zhan Qin and Kui Ren$Threats to Training: A Survey of Poisoning Attacks and Defenses on Machine Learning Systems$CSUR$$$$ACM$2022
+Peter F. Brown and Stephen Della Pietra and Vincent J. Della Pietra and Jennifer C. Lai and Robert L. Mercer$An Estimate of an Upper Bound for the Entropy of English$COMPLING$18$1$31-40$$1992
+Hugo Krawczyk and Pasi Eronen$HMAC-based Extract-and-Expand Key Derivation Function {(HKDF)}$RFC$5869$$1-14$$2010
+Quynh H. Dang$Secure Hash Standard$FIPS$$180$$NIST$2015
+Xu Han and Zhengyan Zhang and Ning Ding and Yuxian Gu and Xiao Liu and Yuqi Huo and Jiezhong Qiu and Yuan Yao and Ao Zhang and Liang Zhang and Wentao Han and Minlie Huang and Qin Jin and Yanyan Lan and Yang Liu and Zhiyuan Liu and Zhiwu Lu and Xipeng Qiu and Ruihua Song and Jie Tang and Ji{-}Rong Wen and Jinhui Yuan and Wayne Xin Zhao and Jun Zhu$Pre-Trained Models: Past, Present and Future$AO$2$$225-250$Elsevier$2021
+Mahmut Kaya and Hasan Sakir Bilge$Deep Metric Learning: A Survey$Symmetry$11$9$$$2019
+Ranjay Krishna and Yuke Zhu and Oliver Groth and Justin Johnson and Kenji Hata and Joshua Kravitz and Stephanie Chen and Yannis Kalantidis and Li{-}Jia Li and David A. Shamma and Michael S. Bernstein and Li Fei{-}Fei$Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations$IJCV$123$1$32-73$Springer$2017
+Bart Thomee and David A. Shamma and Gerald Friedland and Benjamin Elizalde and Karl Ni and Douglas Poland and Damian Borth and Li{-}Jia Li${YFCC100M:} the new data in multimedia research$COACM$59$2$64-73$ACM$2016
+Sorami Hisamoto and Matt Post and Kevin Duh$Membership Inference Attacks on Sequence-to-Sequence Models: Is My Data In Your Machine Translation System?$TACL$8$$49-63$The MIT Press$2020
+Zhenliang He and Wangmeng Zuo and Meina Kan and Shiguang Shan and Xilin Chen$AttGAN: Facial Attribute Editing by Only Changing What You Want$IP$28$11$5464-5478$IEEE$2019
+Omer Tov and Yuval Alaluf and Yotam Nitzan and Or Patashnik and Daniel Cohen{-}Or$Designing an encoder for StyleGAN image manipulation$ToG$40$4$133:1-133:14$ACM$2021
+Colin Raffel and Noam Shazeer and Adam Roberts and Katherine Lee and Sharan Narang and Michael Matena and Yanqi Zhou and Wei Li and Peter J. Liu$Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer$JMLR$21$140$1-67$JMLR$2020
+Mandar Joshi and Danqi Chen and Yinhan Liu and Daniel S. Weld and Luke Zettlemoyer and Omer Levy$SpanBERT: Improving Pre-training by Representing and Predicting Spans$TACL$8$$64-77$The MIT Press$2020
+Timo Schick and Sahana Udupa and Hinrich Sch{\"{u}}tze$Self-Diagnosis and Self-Debiasing: {A} Proposal for Reducing Corpus-Based Bias in {NLP}$TACL$9$$1408-1424$The MIT Press$2021
+Zhengbao Jiang and Frank F. Xu and Jun Araki and Graham Neubig$How Can We Know What Language Models Know$TACL$8$$423-438$The MIT Press$2020
+Sefa Ozalp and Matthew L. Williams and Pete Burnap and Han Liu and Mohamed Mustafa$Antisemitism on Twitter: Collective Efficacy and the Role of Community Organisations in Challenging Online Hate Speech$SM+S$6$2$2056305120916850$SAGE Publications$2021
+Di Jin and Zhijing Jin and Zhiting Hu and Olga Vechtomova and Rada Mihalcea$Deep Learning for Text Style Transfer: {A} Survey$COMPLING$48$1$155-205$The MIT Press$2022
+Jan Luk{\'{a}}s and Jessica J. Fridrich and Miroslav Goljan$Digital Camera Identification From Sensor Pattern Noise$TIFS$1$2$205-214$IEEE$2006
+Mo Chen and Jessica J. Fridrich and Miroslav Goljan and Jan Luk{\'{a}}s$Determining Image Origin and Integrity Using Sensor Noise$TIFS$3$1$74-90$IEEE$2008
+Harris Douglas$Deepfakes: False Pornography Is Here and the Law Cannot Protect You$DUKE$17$$99$HeinOnline$2018
+Chesney Robert and Citron Danielle$Deepfakes and the New Disinformation War: The Coming Age of Post-truth Geopolitics$FAM$98$$147$HeinOnline$2019
+Hodosh Micah and Young Peter and Hockenmaier Julia$Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics$JAIR$47$$853-899$$2013
+Pierre L. Dognin and Igor Melnyk and Youssef Mroueh and Inkit Padhi and Mattia Rigotti and Jarret Ross and Yair Schiff and Richard A. Young and Brian Belgodere$Image Captioning as an Assistive Technology: Lessons Learned from VizWiz 2020 Challenge$JAIR$73$$437-459$$2022
+Yuji Roh and Geon Heo and Steven Euijong Whang$A Survey on Data Collection for Machine Learning: {A} Big Data - {AI} Integration Perspective$TKDE$33$4$1328-1347$IEEE$2021
+Yuan Yao and Lorenzo Rosasco and Andrea Caponnetto$On Early Stopping In Gradient Descent Learning$CA$26$2$289-315$Springer$2007
+Sakshi Udeshi and Shanshan Peng and Gerald Woo and Lionell Loh and Louth Rawshan and Sudipta Chattopadhyay$Model Agnostic Defence Against Backdoor Attacks in Machine Learning$TOR$71$2$880-895$IEEE$2022
+Caitlin M. Rivers and Bryan L. Lewis$Ethical research standards in a world of big data$F1000Research$3$38$38$F1000 Research Limited$2014
+Micha{\l} Bilewicz and Wiktor Soral$Hate Speech Epidemic. The Dynamic Effects of Derogatory Language on Intergroup Relations and Political Radicalization$PP$41$S1$3-33$Wiley Online Library$2020
+Patrick Helber and Benjamin Bischke and Andreas Dengel and Damian Borth$Eurosat: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification$AEORS$12$7$2217-2226$IEEE$2019
+Xu Han and Weilin Zhao and Ning Ding and Zhiyuan Liu and Maosong Sun$PTR: Prompt Tuning with Rules for Text Classification$AO$$$$Elsevier$2022
+Eyal Ben{-}David and Nadav Oved and Roi Reichart$PADA: Example-based Prompt Learning for on-the-fly Adaptation to Unseen Domains$TACL$10$$414-433$The MIT Press$2022
+Han Zhang and Tao Xu and Hongsheng Li and Shaoting Zhang and Xiaogang Wang and Xiaolei Huang and Dimitris N. Metaxas$StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks$TPAMI$41$8$1947-1942$IEEE$2019
+Mang Ye and Jianbing Shen and Gaojie Lin and Tao Xiang and Ling Shao and Steven C. H. Hoi$Deep Learning for Person Re-Identification: A Survey and Outlook$TPAMI$44$6$2872-2893$IEEE$2022
+Paola Cerchiello and Paolo Giudici$Big Data Analysis for Financial Risk Management$JBD$3$1$1-12$Springer$2016
+Hyun Kwon$Defending Deep Neural Networks against Backdoor Attack by Using De-trigger Autoencoder$Access$$$1-1$IEEE$2021
+Guangrui Liu and Weizhe Zhang and Xinjie Li and Kaisheng Fan and Shui Yu$VulnerGAN: A Backdoor Attack Through Vulnerability Amplification Against Machine Learning-based Network Intrusion Detection Systems$SCIS$65$7$1-19$Springer$2022
+W. Patrick Walters and Mark Murcko$Assessing the impact of generative AI on medicinal chemistry$NB$38$2$143-145$Nature Publishing Group$2020
+Yuemin Bian and Xiang-Qun Xie$Generative Chemistry: Drug Discovery with Deep Learning Generative Models$JMM$27$71$$Springer$2021
+Xiangxiang Zeng and Fei Wang and Yuan Luo and Seung-gu Kang and Jian Tang and Felice C.Lightstone and Evandro F.Fang and Wendy Cornell and Ruth Nussinov and Feixiong Cheng$Deep Generative Molecular Design Reshapes Drug Discovery$CRM$3$12$$$2022
+Tom{\'{a}}s Kocisk{\'{y}} and Jonathan Schwarz and Phil Blunsom and Chris Dyer and Karl Moritz Hermann and G{\'{a}}bor Melis and Edward Grefenstette$The NarrativeQA Reading Comprehension Challenge$TACL$6$$317-328$The MIT Press$2018
+Xiangxin Zhu and Carl Vondrick and Charless C. Fowlkes and Deva Ramanan$Do We Need More Training Data?$IJCV$119$1$76-92$Springer$2016
+Fran{\c{c}}ois Cayre and Caroline Fontaine and Teddy Furon$Watermarking security: theory and practice$TSP$53$10$3976-3987$IEEE$2005
+Vojtech Holub and Jessica J. Fridrich and Tom{\'{a}}s Denemark$Universal distortion function for steganography in an arbitrary domain$JIS$2014$$1$Springer$2014
+Ru Zhang and Shiqi Dong and Jianyi Liu$Invisible steganography via generative adversarial networks$MTA$78$7$8559-8575$Springer$2019
+Jennifer Fereday and Eimear Muir-Cochrane$Demonstrating Rigor Using Thematic Analysis: A Hybrid Approach of Inductive and Deductive Coding and Theme Development$IJQM$5$1$80-92$SAGE Publications$2006
+Lynette Hirschman and Robert J. Gaizauskas$Natural language question answering: the view from here$NLR$7$4$275-300$Cambridge University Press$2001
+Virginia Braun and Victoria Clarke$Using thematic analysis in psychology$ICS$3$2$77-101$Taylor \& Francis$2016
+Joseph L Fleiss$Measuring Nominal Scale Agreement Among Many Raters$PB$76$5$378$American Psychological Association$1971
+Pranab Kumar Sen$Estimates of the regression coefficient based on Kendall's tau$JASA$63$324$1379--1389$Taylor \& Francis$1968
+Pengfei Liu and Weizhe Yuan and Jinlan Fu and Zhengbao Jiang and Hiroaki Hayashi and Graham Neubig$Pre-train, Prompt, and Predict: {A} Systematic Survey of Prompting Methods in Natural Language Processing$CSUR$55$9$195:1-195:35$ACM$2023
+Christoph Tillmann and Hermann Ney$Word Reordering and a Dynamic Programming Beam Search Algorithm for Statistical Machine Translation$COMPLING$29$1$97-133$$2003
+Ruoxi Jia and David Dao and Boxin Wang and Frances Ann Hubis and Nezihe Merve G{\"{u}}rel and Bo Li and Ce Zhang and Costas J. Spanos and Dawn Song$Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms$VLDB_journal$12$11$1610-1623$VLDB Endowment$2019
+Lloyd S Shapley$A Value for n-person Games$AM$2$28$307-317$$1953
+Clara Meister and Gian Wiher and Ryan Cotterell$On Decoding Strategies for Neural Text Generators$TACL$10$$997-1012$The MIT Press$2022
+Alex Warstadt and Amanpreet Singh and Samuel R. Bowman$Neural Network Acceptability Judgments$TACL$7$$625-641$The MIT Press$2019
+Yongqin Xian and Christoph H. Lampert and Bernt Schiele and Zeynep Akata$Zero-Shot Learning - {A} Comprehensive Evaluation of the Good, the Bad and the Ugly$TPAMI$41$9$2251-2265$IEEE$2019
+Suranjana Samanta and Sameep Mehta$Generating Adversarial Text Samples$ECIR$10772$$744-749$Springer$2018
+Wei Emma Zhang and Quan Z. Sheng and Ahoud Alhazmi and Chenliang Li$Adversarial Attacks on Deep-learning Models in Natural Language Processing: {A} Survey$TIST$11$3$24:1-24:41$ACM$2020
+Micah Goldblum and Dimitris Tsipras and Chulin Xie and Xinyun Chen and Avi Schwarzschild and Dawn Song and Aleksander Madry and Bo Li and Tom Goldstein$Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses$TPAMI$45$2$1563-1580$IEEE$2023
+George A. Miller$WordNet: {A} Lexical Database for English$COACM$38$11$39-41$ACM$1995
+Claude Elwood Shannon$A Mathematical Theory of Communication$SIGMOBILE$5$1$3-55$ACM$2001
+Neerav Karani and Ertunc Erdil and Krishna Chaitanya and Ender Konukoglu$Test-time adaptable neural networks for robust medical image segmentation$MIA$68$$$$2021
+Evgenia Rusak and Steffen Schneider and George Pachitariu and Luisa Eck and Peter Vincent Gehler and Oliver Bringmann and Wieland Brendel and Matthias Bethge$If your data distribution shifts, use self-learning$TMLR$$$$$2022
+Jakub Breier and Xiaolu Hou and Mart{\'{\i}}n Ochoa and Jesus Solano$FooBaR: Fault Fooling Backdoor Attack on Neural Network Training$TDSC$20$3$1895-1908$IEEE$2023
+William Aiken and Hyoungshick Kim and Simon S. Woo and Jungwoo Ryoo$Neural network laundering: Removing black-box backdoor watermarks from deep neural networks$COS$106$$$$2021
+Md. Zakir Hossain and Ferdous Sohel and Mohd Fairuz Shiratuddin and Hamid Laga$A Comprehensive Survey of Deep Learning for Image Captioning$CSUR$51$6$$ACM$2019
+Purnima Bholowalia and Arvind Kumar$EBK-Means: A Clustering Technique based on Elbow Method and K-Means in WSN$IJCA$105$9$17-24$$2014
+Christine Cook and Rianne Conijn and Juliette Schaafsma and Marjolijn Antheunis$For Whom the Gamer Trolls: A Study of Trolling Interactions in the Online Gaming Context$JCMC$24$6$293-318$Oxford University Press$2019
+Joaquim Alvino de Mesquita Neto and Karin Becker$Relating Conversational Topics and Toxic Behavior Effects in A MOBA Game$EC$26$$10-29$Elsevier$2018
+Guo Freeman and Donghee Yvette Wohn$Understanding eSports Team Formation and Coordination$JCSCW$28$$95-126$Springer$2019
+Jason G. Reitman and Maria J. Anderson-Coto and Minerva Wu and Je Seok Lee and Constance Steinkuehler$Esports Research: A Literature Review$GC$15$1$32-50$SAGE Publications$2020
+Mikko Meril{\"a}inen$Pandemic Rhythms: Adults' Gaming in Finland During the Spring 2020 COVID-19 Restrictions$C$28$6$1679-1698$SAGE Publications$2022
+Yubo Kou and Xinning Gui$Emotion Regulation in eSports Gaming: A Qualitative Study of League of Legends$PHCI$4$$1-25$ACM$2020
+Feixue Mei$Bullet Chats in China: Bilibili, language, and interaction$TWC$36$10.3983$$$2021
+Leticia-Tian Zhang and Daniel Cassany$Making Sense of Danmu: Coherence in Massive Anonymous Chats on Bilibili.com$DS$22$4$483-502$SAGE Publications$2020
+Jes{\'u}s C. Aguerri and Mario Santistebanand and Fernando Mir{\'o}-Llinares$The Enemy Hates Best? Toxicity in League of Legends and Its Content Moderation Implications$EJCPR$29$$437-456$Springer$2023
+Richard Bartle$Hearts, Clubs, Diamonds, Spades: Players Who Suit MUDs$JMUDR$1$1$$$1996
+Changyang He and Lu He and Tun Lu and Bo Li$Beyond Entertainment: Unpacking Danmaku and Comments' Role of Information Sharing and Sentiment Expression in Online Crisis Videos$PHCI$5$CSCW2$1-27$ACM$2021
+Renkai Ma and Xinning Gui and Yubo Kou$Esports Governance: An Analysis of Rule Enforcement in League of Legends$PHCI$6$CSCW2$1-28$ACM$2022
+Juho Hamari and Max Sj{\"o}blom$What Is eSports and Why Do People Watch It?$IR$27$2$211-232$$2017
+Yi Li and Yunjun Guo$Virtual Gifting and Danmaku: What Motivates People to Interact in Game Live Streaming?$TI$62$$$$2021
+Yue Chen and Qin Gao and Pei-Luen Patrick Rau$Watching a Movie Alone Yet Together: Understanding Reasons for Watching Danmaku Videos$IJHCI$33$9$731-743$Taylor \& Francis$2017
+Tim Wulf and Frank M. Schneider and Juliane Queck$Exploring Viewers' Experiences of Parasocial Interactions With Videogame Streamers on Twitch$CBSN$24$10$648-653$$2021
+Donghee Yvette Wohn and Guo Freeman$Live Streaming, Playing, and Money Spending Behaviors in Esports$GC$15$1$73-88$SAGE Publications$2020
+Yue Lu and Qiaozhu Mei and ChengXiang Zhai$Investigating Task Performance of Probabilistic Topic Models: An Empirical Study of PLSA and LDA$IRJ$14$$178-203$Springer$2011
+Hadeer Ahmed and Issa Traor{\'{e}} and Sherif Saad$Detecting opinion spams and fake news using text classification$SAP$1$1$$$2018
+Kai Shu and Amy Sliva and Suhang Wang and Jiliang Tang and Huan Liu$Fake News Detection on Social Media: {A} Data Mining Perspective$SIGKDD$19$1$22-36$$2017
+Mohammadreza Samadi and Maryam Mousavian and Saeedeh Momtazi$Deep contextualized text representation and learning for fake news detection$IPM$58$6$$Elsevier$2021
+Sinno Jialin Pan and Qiang Yang$A Survey on Transfer Learning$TKDE$22$10$1345-1359$IEEE$2009
+Jianfeng Wang and Zhengyuan Yang and Xiaowei Hu and Linjie Li and Kevin Lin and Zhe Gan and Zicheng Liu and Ce Liu and Lijuan Wang${GIT:} {A} Generative Image-to-text Transformer for Vision and Language$TMLR$$$$$2022
+Os Keyes and Chandler May and Annabelle Carrell$You Keep Using That Word: Ways of Thinking about Gender in Computing Research$TOCHI$5$CSCW1$39:1-39:23$ACM$2021
+Ismael Garrido-Mu{\~n}oz and A. Montejo-R{\'a}ez and Fernando Mart{\'i}nez-Santiago and L. and Alfonso Ure{\~n}a-L{\'o}pez$A Survey on Bias in Deep NLP$AS$11$7$3184$MDPI$2021
+Ian J. Goodfellow and Jean Pouget{-}Abadie and Mehdi Mirza and Bing Xu and David Warde{-}Farley and Sherjil Ozair and Aaron C. Courville and Yoshua Bengio$Generative Adversarial Networks$COACM$63$11$139-144$ACM$2020
+Ruben Tolosana and Rub{\'{e}}n Vera{-}Rodr{\'{\i}}guez and Julian Fi{\'{e}}rrez and Aythami Morales and Javier Ortega{-}Garcia$Deepfakes and Beyond: {A} Survey of Face Manipulation and Fake Detection$Fusion$64$$131-148$$2020
+Thanh Nguyen and Quoc Viet Hung Nguyen and Dung Tien Nguyen and Duc Thanh Nguyen and Thien Huynh{-}The and Saeid Nahavandi and Thanh Tam Nguyen and Quoc{-}Viet Pham and Cuong M. Nguyen$Deep Learning for Deepfakes Creation and Detection: {A} Survey$CVIU$223$$103525$$2022
+Tao Zhang$Deepfake Generation and Detection, A Survey$MTA$81$5$6259-6276$Springer$2022
+Yisroel Mirsky and Wenke Lee$The Creation and Detection of Deepfakes: {A} Survey$CSUR$54$1$7:1-7:41$ACM$2022
+Jiazhu Dai and Chuanshuai Chen and Yufeng Li$A Backdoor Attack Against LSTM-Based Text Classification Systems$Access$$$138872-138878$IEEE$2019
+Catherine Han and Joseph Seering and Deepak Kumar and Jeffrey T. Hancock and Zakir Durumeric$Hate Raids on Twitch: Echoes of the Past, New Modalities, and Implications for Platform Governance$PHCI$7$CSCW1$1-28$ACM$2023
+Kang Gu and Ehsanul Kabir and Neha Ramsurrun and Soroush Vosoughi and Shagufta Mehnaz$Towards Sentence Level Inference Attack Against Pre-trained Language Models$PETS$2023$3$62-78$$2023
+Bonan Min and Hayley Ross and Elior Sulem and Amir Pouran Ben Veyseh and Thien Huu Nguyen and Oscar Sainz and Eneko Agirre and Ilana Heintz and Dan Roth$Recent Advances in Natural Language Processing via Large Pre-trained Language Models: {A} Survey$CSUR$$$$ACM$2024
+Marc Brysbaert$How Many Words Do We Read Per Minute? A Review and Meta-analysis of Reading Rate$JOML$$$$$2019
+Ziwei Ji and Nayeon Lee and Rita Frieske and Tiezheng Yu and Dan Su and Yan Xu and Etsuko Ishii and Yejin Bang and Andrea Madotto and Pascale Fung$Survey of Hallucination in Natural Language Generation$CSUR$$$$ACM$2023

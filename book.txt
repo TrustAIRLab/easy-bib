@@ -1,0 +1,29 @@
+author$title$publisher$year
+Jure Leskovec and Anand Rajaraman and Jeffrey David Ullman$Mining of Massive Datasets$Cambridge University Press$2014
+David Easley and Jon Kleinberg$Networks, Crowds, and Markets: Reasoning About a Highly Connected World$Cambridge University Press$2010
+Lisa F Berkman and Ichir{\=o} Kawachi and M Maria Glymour$Social Epidemiology$Oxford University Press$2014
+Ian Goodfellow and Yoshua Bengio and Aaron Courville$Deep Learning$The MIT Press$2016
+Yann Lecun and Yoshua Bengio$The Handbook of Brain Theory and Neural Networks$The MIT Press$1995
+Kaspar Riesen and Horst Bunke$Structural, Syntactic, and Statistical Pattern Recognition$Springer$2008
+Christopher M Bishop$Pattern Recognition and Machine Learning$Springer$2006
+Richard O Duda and Peter E Hart and David G Stork$Pattern Classification$John Wiley \& Sons$2012
+Steven Bird and Ewan Klein and Edward Loper$Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit$O'Reilly Media, Inc$2009
+Ninghui Li and Min Lyu and Dong Su and Weining Yang$Differential Privacy: From Theory to Practice$Morgan \& Claypool Publishers$2016
+Cynthia Dwork and Aaron Roth$The Algorithmic Foundations of Differential Privacy$Now Publishers Inc.$2014
+William L. Hamilton$Graph Representation Learning$Morgan and Claypool$2020
+John Scott$Social Network Analysis$SAGE Publications Inc$2017
+M. R. Garey and David S. Johnson$Computers and Intractability: A Guide to the Theory of NP-Completeness$W. H. Freeman$1979
+Franck Bill{\'e}$Sinophobia: Anxiety, violence, and the making of Mongolian identity$University of Hawaii Press$2014
+Andrew Kohut and Richard Wike and Bruce Stokes and Katie Simmons and Jacob Poushter and James Bell and Aaron Ponce and Cathy Barker and Kat Devlin and Bruce Stokes and James Bell and Elizabeth Mueller Gross and Juliana Menasce Horowitz$America’s global image remains more positive than China’s$Pew Research$2013
+Joaquin Quinonero-Candela and Masashi Sugiyama and Anton Schwaighofer and Neil D. Lawrence$Dataset Shift in Machine Learning$MIT Press$2008
+Carl Chen$The Creation and Meaning of Internet Memes in 4chan: Popular Internet Culture in the Age of Online Digital Reproduction$Citeseer$2012
+Richard Dawkins$The Selfish Gene$Oxford University Press$1976
+Stephan Dempe$Foundations of bilevel programming$Springer Science \& Business Media$2002
+Mauro Barni$Steganography in Digital Media: Principles, Algorithms, and Applications$Cambridge University Press$2014
+Ingemar Cox and Matthew Miller and Jeffrey Bloom$Digital Watermarking$Springer$2002
+Jonathan Lazar and Jinjuan Feng and Harry Hochheiser$Research Methods in Human-Computer Interaction, 2nd Edition$Morgan Kaufmann$2017
+Lois Mai Chan and Sheila S. Intner and Jean Weihs$Guide to the Library of Congress Classification$Libraries Unlimited$2016
+Virginia Braun and Victoria Clarke$Thematic Analysis$American Psychological Association$2012
+Kathy Charmaz$Constructing Grounded Theory: A Practical Guide Through Qualitative Analysis$SAGE Publications Inc$2006
+Angel Torres-Toukoumidis$Esports and the Media: Challenges and Expectations in a Multi-screen Society$Taylor \& Francis$2022
+Klaus Krippendorff$Content Analysis: An Introduction to Its Methodology$SAGE Publications Inc$2018
